@@ -6,7 +6,7 @@
     "categoria": "Clásico Moderno",
     "genero": "Superhéroes 🦸",
     "precio_venta": 17.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/joker.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/joker.jpg"
   },
   {
     "codigo": "CM002",
@@ -15,7 +15,7 @@
     "categoria": "Obra Maestra",
     "genero": "Superhéroes 🦸",
     "precio_venta": 24.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/watch.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/watch.jpg"
   },
   {
     "codigo": "CM003",
@@ -24,7 +24,7 @@
     "categoria": "Drama Romántico",
     "genero": "Superhéroes 🕷️",
     "precio_venta": 14.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/blue.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/blue.jpg"
   },
   {
     "codigo": "CM004",
@@ -33,7 +33,7 @@
     "categoria": "Independiente",
     "genero": "Ciencia Ficción 🚀",
     "precio_venta": 59.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/saga.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/saga.jpg"
   },
   {
     "codigo": "CM005",
@@ -42,7 +42,7 @@
     "categoria": "Fantasía Oscura",
     "genero": "Manga (Seinen) 🇯🇵",
     "precio_venta": 49.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/guts.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/guts.jpg"
   },
   {
     "codigo": "CM006",
@@ -51,7 +51,7 @@
     "categoria": "Clásico Moderno",
     "genero": "Superhéroes 🦇",
     "precio_venta": 19.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/dark.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/dark.jpg"
   },
   {
     "codigo": "CM007",
@@ -87,7 +87,7 @@
     "categoria": "Novela Gráfica",
     "genero": "Distopía 🎭",
     "precio_venta": 19.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/V.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/V.jpg"
   },
   {
     "codigo": "CM011",
@@ -96,7 +96,7 @@
     "categoria": "Evento",
     "genero": "Superhéroes ⚡",
     "precio_venta": 16.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/flash.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/flash.jpg"
   },
   {
     "codigo": "CM012",
@@ -105,7 +105,7 @@
     "categoria": "Renacimiento",
     "genero": "Superhéroes 💚",
     "precio_venta": 14.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/green.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/green.jpg"
   },
   {
     "codigo": "CM013",
@@ -114,7 +114,7 @@
     "categoria": "Historia de Origen",
     "genero": "Superhéroes 🦇",
     "precio_venta": 14.99,
-    "imagen": "hhttps://raw.githubusercontent.com/Tiresmoney830/json/main/img/yearone.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/yearone.jpg"
   },
   {
     "codigo": "CM014",
@@ -123,7 +123,7 @@
     "categoria": "Misterio",
     "genero": "Superhéroes ❓",
     "precio_venta": 19.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/crisis.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/crisis.jpg"
   },
   {
     "codigo": "CM015",
@@ -132,7 +132,7 @@
     "categoria": "Épica Retro",
     "genero": "Superhéroes 🇺🇸",
     "precio_venta": 39.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/frontier.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/frontier.jpg"
   },
   {
     "codigo": "CM016",
@@ -141,7 +141,7 @@
     "categoria": "Evento",
     "genero": "Superhéroes 💥",
     "precio_venta": 24.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/war.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/war.jpg"
   },
   {
     "codigo": "CM017",
@@ -150,7 +150,7 @@
     "categoria": "Thriller",
     "genero": "Superhéroes 😈",
     "precio_venta": 17.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/born.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/born.jpg"
   },
   {
     "codigo": "CM018",
@@ -159,7 +159,7 @@
     "categoria": "Cósmico",
     "genero": "Superhéroes 💎",
     "precio_venta": 24.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/thanos.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/thanos.jpg"
   },
   {
     "codigo": "CM019",
@@ -168,7 +168,7 @@
     "categoria": "Evento Mutante",
     "genero": "Superhéroes 🧬",
     "precio_venta": 24.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/nomore.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/nomore.jpg"
   },
   {
     "codigo": "CM020",
@@ -177,7 +177,7 @@
     "categoria": "Jóvenes Adultos",
     "genero": "Superhéroes ✨",
     "precio_venta": 15.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/marvel.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/marvel.jpg"
   },
   {
     "codigo": "CM021",
@@ -186,7 +186,7 @@
     "categoria": "Fantasía Oscura",
     "genero": "Terror 🔑",
     "precio_venta": 19.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/lovecraft.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/lovecraft.jpg"
   },
   {
     "codigo": "CM022",
@@ -195,7 +195,7 @@
     "categoria": "Acción",
     "genero": "Ciencia Ficción 🐢",
     "precio_venta": 29.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/ronin.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/ronin.jpg"
   },
   {
     "codigo": "CM023",
@@ -204,7 +204,7 @@
     "categoria": "Aventura Espacial",
     "genero": "Ciencia Ficción 🤖",
     "precio_venta": 17.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/prime.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/prime.jpg"
   },
   {
     "codigo": "CM024",
@@ -213,7 +213,7 @@
     "categoria": "Horror de Supervivencia",
     "genero": "Terror 🧛",
     "precio_venta": 17.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/30.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/30.jpg"
   },
   {
     "codigo": "CM025",
@@ -222,6 +222,6 @@
     "categoria": "Ficción Histórica",
     "genero": "Aventura 🐰",
     "precio_venta": 29.99,
-    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/json/main/img/conejo.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/conejo.jpg"
   }
 ]
