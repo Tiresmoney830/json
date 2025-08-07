@@ -1,4 +1,5 @@
 [
+[
   {
     "codigo": "CM001",
     "titulo": "Batman: The Killing Joke",
@@ -60,7 +61,7 @@
     "categoria": "Obra Maestra",
     "genero": "Superhéroes 🦸",
     "precio_venta": 29.99,
-    "imagen": "https://m.media-amazon.com/images/I/81xd5lXY8bL._AC_UF1000,1000_QL80_.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/superman.jpg"
   },
   {
     "codigo": "CM008",
@@ -69,7 +70,7 @@
     "categoria": "Fantasía Oscura",
     "genero": "Fantasía 🌙",
     "precio_venta": 19.99,
-    "imagen": "https://m.media-amazon.com/images/I/810n6p+2ceL._AC_UF1000,1000_QL80_.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/sandman.jpg"
   },
   {
     "codigo": "CM009",
@@ -78,7 +79,7 @@
     "categoria": "Elseworlds",
     "genero": "Superhéroes 💥",
     "precio_venta": 21.99,
-    "imagen": "https://m.media-amazon.com/images/I/81YYDddTuLL._AC_UF1000,1000_QL80_.jpg"
+    "imagen": "https://cdn.jsdelivr.net/gh/Tiresmoney830/json/img/kingdom.jpg"
   },
   {
     "codigo": "CM010",
