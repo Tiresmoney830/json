@@ -6,7 +6,7 @@
     "categoria": "Clásico Moderno",
     "genero": "Superhéroes 🦸",
     "precio_venta": 17.99,
-    "imagen": "img/img (1).jpeg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(5).jpg?token=GHSAT0AAAAAADFWT76AWOGYOG2HQBOUKHSM2EUCWUA"
   },
   {
     "codigo": "CM002",
@@ -15,7 +15,7 @@
     "categoria": "Obra Maestra",
     "genero": "Superhéroes 🦸",
     "precio_venta": 24.99,
-    "imagen": "https://m.media-amazon.com/images/I/81U7nh6OPVL._UF1000,1000_QL80_.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(8).jpg?token=GHSAT0AAAAAADFWT76BFGUDIFQPRRXILKXC2EUCXCA"
   },
   {
     "codigo": "CM003",
@@ -24,7 +24,7 @@
     "categoria": "Drama Romántico",
     "genero": "Superhéroes 🕷️",
     "precio_venta": 14.99,
-    "imagen": "https://m.media-amazon.com/images/I/81PHzU0nPpL._UF1000,1000_QL80_.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(3).jpg?token=GHSAT0AAAAAADFWT76BTH6VUR4IZNWEO6Y62EUC2HA"
   },
   {
     "codigo": "CM004",
@@ -33,7 +33,7 @@
     "categoria": "Independiente",
     "genero": "Ciencia Ficción 🚀",
     "precio_venta": 59.99,
-    "imagen": "https://www.charles-city.lib.ia.us/application/files/7516/4329/8866/unnamed.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(6).jpg?token=GHSAT0AAAAAADFWT76BJNWC4YKJBXKDMY4K2EUC3FA"
   },
   {
     "codigo": "CM005",
@@ -42,7 +42,7 @@
     "categoria": "Fantasía Oscura",
     "genero": "Manga (Seinen) 🇯🇵",
     "precio_venta": 49.99,
-    "imagen": "https://comicvine.gamespot.com/a/uploads/scale_small/11156/111567728/8724269-berserkv41%282022%29.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(4).jpg?token=GHSAT0AAAAAADFWT76BCVQJY6RRAQ7MRUNM2EUC4AA"
   },
   {
     "codigo": "CM006",
@@ -51,7 +51,7 @@
     "categoria": "Clásico Moderno",
     "genero": "Superhéroes 🦇",
     "precio_venta": 19.99,
-    "imagen": "https://i1.whakoom.com/large/2e/3c/ba5bcf3e770d4d7493597b3077343e16.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(11).jpg?token=GHSAT0AAAAAADFWT76AWMPYVICXXPH4J7PG2EUC4OQ"
   },
   {
     "codigo": "CM007",
@@ -87,7 +87,7 @@
     "categoria": "Novela Gráfica",
     "genero": "Distopía 🎭",
     "precio_venta": 19.99,
-    "imagen": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329597888i/6696744.jpg"
+    "imagen": "https://raw.githubusercontent.com/Tiresmoney830/imagenes/refs/heads/main/img/img%20(14).jpg?token=GHSAT0AAAAAADFWT76AYDFLLTZVFDOZ75GM2EUC44Q"
   },
   {
     "codigo": "CM011",
